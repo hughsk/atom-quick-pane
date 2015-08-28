@@ -1,0 +1,40 @@
+{
+  "name": "atom-quick-pane",
+  "version": "1.0.0",
+  "description": "Quick and easy pane creation for the Atom Editor",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "https://github.com/hughsk"
+  },
+  "standard": {
+    "global": [
+      "atom"
+    ]
+  },
+  "dependencies": {
+    "noop2": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "atom,",
+    "editor,",
+    "easy,",
+    "simple,",
+    "pane,",
+    "panel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/atom-quick-pane.git"
+  },
+  "homepage": "https://github.com/hughsk/atom-quick-pane",
+  "bugs": {
+    "url": "https://github.com/hughsk/atom-quick-pane/issues"
+  }
+}
