@@ -2,7 +2,7 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-Quick and easy pane creation for the [Atom Editor](https://atom.io/).
+Quick and easy pane creation for [Atom](https://atom.io/).
 
 It was difficult finding documentation for how to set up a new pane that just required dealing with a `<div>` or custom element, and there's still the need to adhere to Atom's Model/View pattern currently. This package provides a simpler API for _one-off_ panes when that's all you need.
 
