@@ -1,6 +1,6 @@
 {
   "name": "atom-quick-pane",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick and easy pane creation for the Atom Editor",
   "main": "index.js",
   "license": "MIT",
